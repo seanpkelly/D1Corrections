@@ -1,0 +1,13 @@
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.exe
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.deps.json
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.runtimeconfig.json
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.runtimeconfig.dev.json
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.dll
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\bin\Debug\netcoreapp3.1\D1Corrections.pdb
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.csprojAssemblyReference.cache
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.AssemblyInfoInputs.cache
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.AssemblyInfo.cs
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.csproj.CoreCompileInputs.cache
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.dll
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.pdb
+C:\Users\yllek\Desktop\Grand_Circus\D1Corrections\D1Corrections\obj\Debug\netcoreapp3.1\D1Corrections.genruntimeconfig.cache
