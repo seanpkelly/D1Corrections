@@ -90,7 +90,7 @@ namespace D1Corrections
 
 
 
-            Result = ($"You should {Destination} via  {TravelSuggestion}");
+            Result = ($"You should travel to  {Destination} via  {TravelSuggestion}");
                 Console.WriteLine(Result);
                 Console.ReadLine();
 
